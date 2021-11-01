@@ -1,4 +1,4 @@
-# StockAnalysis
+# Stock-Analysis
 
 ## Overview
 
